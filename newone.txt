@@ -1,2 +1,6 @@
 savaminguu
+<<<<<<< HEAD
 Hi - Dev
+=======
+Hi
+>>>>>>> origin/master
